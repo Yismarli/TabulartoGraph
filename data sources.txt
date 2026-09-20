@@ -1,0 +1,10 @@
+The following data is from Kaggle：
+（1）BCCP: https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset
+(2) SMP: https://www.kaggle.com/datasets/programmer3/smart-manufacturing-process-data
+(3) OCI :https://www.kaggle.com/datasets/aritra100/online-customers-intention
+(4) SD: https://www.kaggle.com/datasets/smayanj/spam-detection-dataset
+The following data comes from the CLIMB database and can be loaded directly via scikit-learn (sklearn.datasets).
+(1) Ol8(ozone-level-8hr)
+(2) Phoneme
+(3) Churn
+(4) NamG(mammography)
